@@ -1,0 +1,8 @@
+/youtube-clip-caption
+├── public/
+├── src/
+│   └── App.jsx
+│   └── index.js
+├── .gitignore
+├── package.json
+├── README.md
